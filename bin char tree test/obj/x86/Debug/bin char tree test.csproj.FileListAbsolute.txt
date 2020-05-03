@@ -1,0 +1,18 @@
+C:\Users\badlogin\Desktop\bin char tree test\bin char tree test\bin\Debug\bin char tree test.exe
+C:\Users\badlogin\Desktop\bin char tree test\bin char tree test\bin\Debug\bin char tree test.pdb
+C:\Users\badlogin\Desktop\bin char tree test\bin char tree test\obj\x86\Debug\bin char tree test.csprojAssemblyReference.cache
+C:\Users\badlogin\Desktop\bin char tree test\bin char tree test\obj\x86\Debug\bin_char_test_tree.formBinCharTreeTest.resources
+C:\Users\badlogin\Desktop\bin char tree test\bin char tree test\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\badlogin\Desktop\bin char tree test\bin char tree test\obj\x86\Debug\bin char tree test.csproj.GenerateResource.cache
+C:\Users\badlogin\Desktop\bin char tree test\bin char tree test\obj\x86\Debug\bin char tree test.csproj.CoreCompileInputs.cache
+C:\Users\badlogin\Desktop\bin char tree test\bin char tree test\obj\x86\Debug\bin char tree test.exe
+C:\Users\badlogin\Desktop\bin char tree test\bin char tree test\obj\x86\Debug\bin char tree test.pdb
+C:\Users\badlogin\Desktop\КУРСАЧ\bin char tree test\bin char tree test\bin\Debug\bin char tree test.exe
+C:\Users\badlogin\Desktop\КУРСАЧ\bin char tree test\bin char tree test\bin\Debug\bin char tree test.pdb
+C:\Users\badlogin\Desktop\КУРСАЧ\bin char tree test\bin char tree test\obj\x86\Debug\bin char tree test.csprojAssemblyReference.cache
+C:\Users\badlogin\Desktop\КУРСАЧ\bin char tree test\bin char tree test\obj\x86\Debug\bin_char_test_tree.formBinCharTreeTest.resources
+C:\Users\badlogin\Desktop\КУРСАЧ\bin char tree test\bin char tree test\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\badlogin\Desktop\КУРСАЧ\bin char tree test\bin char tree test\obj\x86\Debug\bin char tree test.csproj.GenerateResource.cache
+C:\Users\badlogin\Desktop\КУРСАЧ\bin char tree test\bin char tree test\obj\x86\Debug\bin char tree test.csproj.CoreCompileInputs.cache
+C:\Users\badlogin\Desktop\КУРСАЧ\bin char tree test\bin char tree test\obj\x86\Debug\bin char tree test.exe
+C:\Users\badlogin\Desktop\КУРСАЧ\bin char tree test\bin char tree test\obj\x86\Debug\bin char tree test.pdb
